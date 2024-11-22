@@ -13,3 +13,7 @@ Easy-to-navigate interface
 Clutter-free layout
 How tu use:
 You need to just enter the food name. And you can choose what kind of the food you want and see the ingredients.
+
+<img src='/recipe app/screenshots/Screenshot1.png'>
+<img src='/recipe app/screenshots/Screenshot2.png'>
+<img src='/recipe app/screenshots/Screenshot3.png'>

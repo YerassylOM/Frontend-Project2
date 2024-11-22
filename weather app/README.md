@@ -16,3 +16,7 @@ Dynamic Icons: Weather icons update dynamically based on conditions.
 How to use:
 You need just text your city or what city's wheather you want to know. 
 Or you can get the parametres by pressing current location button.
+
+<img src='/weather app/screenshots/Screenshot1.png'>
+<img src='/weather app/screenshots/Screenshot2.png'>
+<img src='/weather app/screenshots/Screenshot3.png'>
